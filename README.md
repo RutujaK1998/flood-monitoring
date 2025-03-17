@@ -31,6 +31,3 @@ This project uses data from the **UK Environment Agency Flood Monitoring API**:
 [https://environment.data.gov.uk/flood-monitoring/id/stations](https://environment.data.gov.uk/flood-monitoring/id/stations)
 
 
-
-### Screenshots
-![Dashboard Screenshot]
